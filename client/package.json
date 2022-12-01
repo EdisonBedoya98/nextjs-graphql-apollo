@@ -16,7 +16,7 @@
     "axios": "^0.24.0",
     "@apollo/client": "^3.5.5",
     "next": "12.x.x",
-    "postcss": "^8.4.4",
+    "postcss": "^8.4.19",
     "react": "17.x.x",
     "react-dom": "17.x.x",
     "semantic-ui-css": "^2.4.1",
